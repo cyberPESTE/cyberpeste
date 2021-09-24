@@ -1,16 +1,29 @@
-### Hi there 👋
+# consulta-v3
+!
 
-<!--
-**cyberPESTE/cyberpeste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ferramenta onsint criado com apis públicas para obter dados de ips cnpj cep 
+obs: o script não retornar dados pessoais q possa compremeter alguem
 
-Here are some ideas to get you started:
+> INSTALAÇÃO NO TERMUX ou kali linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> apt-get update
+
+> apt-get upgrade
+
+> pkg install python
+
+> pkg install python3 -y
+
+> pkg install pip
+
+> pkg install git
+
+> git clone https://github.com/cyberPESTE/Consulta-FH-cyber
+
+> cd cyberpeste
+
+> pip install -r requirements.txt
+
+> python3 cyber.py
+
+siga @cyberPESTE
