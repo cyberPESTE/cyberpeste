@@ -18,7 +18,7 @@ obs: o script não retornar dados pessoais q possa compremeter alguem
 
 > pkg install git
 
-> git clone https://github.com/cyberPESTE/Consulta-FH-cyber
+> git clone https://github.com/cyberPESTE/cyberpeste/blob/main/README.md
 
 > cd cyberpeste
 
