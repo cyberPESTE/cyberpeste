@@ -159,7 +159,7 @@ try:
 except KeyboardInterrupt:
     exit()
 except:
-    print(f'{vm}
+    print(f""" {vm}
                        // ¤ \\
                        \\ ¤ //
                          \\//
